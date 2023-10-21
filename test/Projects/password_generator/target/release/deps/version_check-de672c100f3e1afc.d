@@ -1,0 +1,10 @@
+C:\Users\joshua.sousa\estudo\Rust\Projects\password_generator\target\release\deps\version_check-de672c100f3e1afc.rmeta: C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\joshua.sousa\estudo\Rust\Projects\password_generator\target\release\deps\libversion_check-de672c100f3e1afc.rlib: C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\joshua.sousa\estudo\Rust\Projects\password_generator\target\release\deps\version_check-de672c100f3e1afc.d: C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs:
+C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs:
+C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs:
+C:\Users\joshua.sousa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs:
